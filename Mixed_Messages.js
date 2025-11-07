@@ -1,34 +1,36 @@
-const affirmationsPart1 = [
-  "you are capable of handling whatever comes your way",
-  "your hard work is creating real progress",
-  "every step you take brings you closer to your goals",
-  "you have the strength to overcome any challenge",
-  "your energy inspires people around you",
-  "today is full of new opportunities waiting for you",
-  "you are becoming the best version of yourself",
-  "you radiate confidence and calm wherever you go"
+const start = [
+  "Today is your day to shine.",
+  "You are becoming more confident every moment.",
+  "Every challenge you face is shaping your strength.",
+  "You are surrounded by endless opportunities.",
+  "Your efforts are planting seeds for success.",
+  "You are exactly where you need to be right now.",
+  "The energy you bring to the world matters.",
+  "You are capable, resilient, and full of purpose."
 ];
 
-const affirmationsPart2 = [
-  "trust yourself and stay consistent",
-  "keep your head high and heart open",
-  "remember that progress, not perfection, matters",
-  "your mindset determines your reality — think positive",
-  "great things take time, stay patient and persistent",
-  "you are doing better than you think",
-  "your potential is limitless when you believe in yourself",
-  "the universe is aligning everything in your favor"
+const middle = [
+  "Keep believing in your path and trusting your process.",
+  "Continue to show up for yourself, even in small ways.",
+  "Remember that growth often feels uncomfortable before it blossoms.",
+  "Stay open to change — it’s guiding you toward something better.",
+  "Know that every step forward, no matter how small, is meaningful.",
+  "Embrace the present moment and the lessons it brings.",
+  "Let go of doubt — clarity comes with consistent action.",
+  "Focus on progress, not perfection; your journey is unfolding beautifully."
 ];
-const affirmationsPart3 = [
-  "Keep going — your best days are ahead.",
-  "Trust the journey, it’s leading you somewhere beautiful.",
-  "Success is built on persistence and patience.",
-  "The universe is aligning everything in your favor.",
-  "Celebrate your progress, not just the destination.",
-  "Keep your heart open and your mind focused.",
-  "You are unstoppable when you believe in yourself.",
-  "Your light inspires others — never dim it."
+
+const end = [
+  "Because your light is meant to inspire others.",
+  "Because success follows those who stay persistent.",
+  "And soon you’ll see how far you’ve come.",
+  "And you’ll realize that everything was preparing you for this moment.",
+  "And remember — your patience will be rewarded in time.",
+  "Because peace comes from knowing you’re doing your best.",
+  "And those who stay true to themselves always find their way.",
+  "Because the world is better when you believe in yourself."
 ];
+
 
 
 /*const randomMessage = (arr1, arr2, arr3) =>{
