@@ -1,6 +1,9 @@
 # Portfolio Project : Mixed Messages
-In this project, I create a small program that uses Arrays and functions to create random Affirmation messages. In this project I showcase some of the skills I have learnt so far with Javascript and Git/GitHub by commiting and pushing them to a repository.
+In this Project, I create a small random message program that uses arrays and functions to create a chain of different affirmations each time the user runs it. 
 ## Javascript Skills ShowCased
 1. Functions
 2. Arrays
 ### Improvements
+-  Personalised Messages
+   - Asks the user for their name and create's a message catered specifically to that user.
+- Try Incoperate Objects.
