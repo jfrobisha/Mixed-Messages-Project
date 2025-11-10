@@ -1,4 +1,4 @@
-const start = [
+const affirmationsPart1 = [
   "Today is your day to shine.",
   "You are becoming more confident every moment.",
   "Every challenge you face is shaping your strength.",
@@ -9,7 +9,7 @@ const start = [
   "You are capable, resilient, and full of purpose."
 ];
 
-const middle = [
+const affirmationsPart2 = [
   "Keep believing in your path and trusting your process.",
   "Continue to show up for yourself, even in small ways.",
   "Remember that growth often feels uncomfortable before it blossoms.",
@@ -20,7 +20,7 @@ const middle = [
   "Focus on progress, not perfection; your journey is unfolding beautifully."
 ];
 
-const end = [
+const affirmationsPart3 = [
   "Because your light is meant to inspire others.",
   "Because success follows those who stay persistent.",
   "And soon you’ll see how far you’ve come.",
@@ -48,6 +48,6 @@ const messageGenerator = () =>{
   let part1 = randomGenerator(affirmationsPart1)
   let part2 = randomGenerator(affirmationsPart2)
   let part3 = randomGenerator(affirmationsPart3)
-  return console.log(`${part1}. ${part2}, ${part3}`)
+  return console.log(`${part1} ${part2} ${part3}`)
 }
 messageGenerator()
